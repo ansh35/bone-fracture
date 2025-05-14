@@ -155,6 +155,5 @@ Contributions are welcome! Please open an issue first to discuss your ideas or c
 
 ## 📬 Contact
 
-- **Author:** Krish Garg 
-- **GitHub:** [@KrishGarg001](https://github.com/KrishGarg001)  
-- **Email:** zexuxkrish123@gmail.com  
+- **Author:** Ansh Khare   
+- **Email:** Khareansh075@gmail.com  
